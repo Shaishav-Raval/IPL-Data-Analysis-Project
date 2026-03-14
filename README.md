@@ -11,28 +11,6 @@ This project analyzes Indian Premier League (IPL) match data to uncover insights
 - Excel
 - Git & GitHub
 
-## Project Structure
-IPL_Data_Analysis_Project
-│
-├── data
-│   ├── matches.csv
-│   └── deliveries.csv
-│
-├── sql
-│   └── IPL_queries.sql
-│
-├── python
-│   ├── IPL_EDA.ipynb
-│   └── IPL_ML_Model.ipynb
-│
-├── powerbi
-│   └── IPL_Dashboard.pbix
-│
-├── images
-│   └── visualizations.png
-│
-└── README.md
-
 ## Key Analysis Performed
 
 ### 1. Exploratory Data Analysis
